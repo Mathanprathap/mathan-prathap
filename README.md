@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 I am Mathan Prathap, a Mechanical Engineering graduate with <br>a passion for UI/UX design. With a background in Computer Science <br>and engineering, I blend analytical problem-solving with creativity to <br>craft intuitive and user-friendly digital experiences. Currently learning <br>UI/UX at Guvi, I am focused on designing seamless interfaces that <br>enhance user interaction. Open to collaborations, I strive to create <br>impactful solutions through research, design, and innovation. I have 2 <br>year of working experience in a Non-IT domain.
 
 
@@ -17,5 +17,5 @@ I am Mathan Prathap, a Mechanical Engineering graduate with <br>a passion for UI
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mathanprathap&icon=0&color=0)](https://visitcount.itsvg.in)
-
+](https://github-readme-stats.vercel.app/api?username=mathanprathap&show_icons=true&locale=en)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
